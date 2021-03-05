@@ -20,9 +20,9 @@
         ConsultaDetalleVariable: 'ConsultaDetalleVariable'
     },
     CodigoPantalla: {
-        Login: 'SIA-F0001 v(1.1.1)',
+        Login: 'SIA-F0001 v(1.1.2)',
         Estaciones: 'SIA-F0002 v(1.1.1)',
-        ComportamientoVariables: 'SIA-F0003 v(1.1.1)',
+        ComportamientoVariables: 'SIA-F0003 v(1.1.2)',
         Indicadores: 'SIA-F0004 v(1.1.1)'
     }
 }
