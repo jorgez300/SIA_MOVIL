@@ -235,6 +235,7 @@
     <Content Include="Content\Indicadores.css" />
     <Content Include="Content\jquery-ui.css" />
     <Content Include="Content\Login.css" />
+    <Content Include="Content\toastr.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
@@ -379,6 +380,7 @@
     <Content Include="Scripts\src\utils\setStyles.js" />
     <Content Include="Scripts\src\utils\setupEventListeners.js" />
     <Content Include="Scripts\sweetalert.min.js" />
+    <Content Include="Scripts\toastr.js" />
     <Content Include="Scripts\umd\popper-utils.js" />
     <Content Include="Scripts\umd\popper-utils.min.js" />
     <Content Include="Scripts\umd\popper.js" />

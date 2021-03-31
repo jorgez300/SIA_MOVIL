@@ -109,3 +109,6 @@ D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_WEBAPI\obj\Release\SIA_MOVIL_WEBAP
 D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_WEBAPI\obj\Release\SIA_MOVIL_WEBAPI.csproj.CopyComplete
 D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_WEBAPI\obj\Release\SIA_MOVIL_WEBAPI.dll
 D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_WEBAPI\obj\Release\SIA_MOVIL_WEBAPI.pdb
+D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_WEBAPI\bin\RSAJWT.dll
+D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_WEBAPI\bin\BlowFish.dll
+D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_WEBAPI\bin\RSAJWT.pdb

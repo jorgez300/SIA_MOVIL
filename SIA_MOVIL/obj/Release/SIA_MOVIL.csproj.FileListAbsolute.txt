@@ -353,3 +353,6 @@ C:\GENESYS\Sitios\SIA_MOVIL\SIA_MOVIL\obj\Release\SIA_MOVIL.csproj.CoreCompileIn
 C:\GENESYS\Sitios\SIA_MOVIL\SIA_MOVIL\obj\Release\SIA_MOVIL.csproj.CopyComplete
 C:\GENESYS\Sitios\SIA_MOVIL\SIA_MOVIL\obj\Release\SIA_MOVIL.dll
 C:\GENESYS\Sitios\SIA_MOVIL\SIA_MOVIL\obj\Release\SIA_MOVIL.pdb
+D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL\bin\RSAJWT.dll
+D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL\bin\BlowFish.dll
+D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL\bin\RSAJWT.pdb

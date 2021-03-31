@@ -34,3 +34,6 @@ D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_MODELO\obj\Release\SIA_MOVIL_MODEL
 D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_MODELO\obj\Release\SIA_MOVIL_MODELO.csproj.CopyComplete
 D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_MODELO\obj\Release\SIA_MOVIL_MODELO.dll
 D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_MODELO\obj\Release\SIA_MOVIL_MODELO.pdb
+D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_MODELO\bin\Release\RSAJWT.dll
+D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_MODELO\bin\Release\BlowFish.dll
+D:\GITLAB\sia_movil_jorge\SIA_MOVIL\SIA_MOVIL_MODELO\bin\Release\RSAJWT.pdb
