@@ -5,11 +5,11 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>D:\PUBLICACIONES\CMPC\SIA_MOVIL</_PublishTargetUrl>
-    <History>True|2021-03-31T15:06:02.7197577Z;True|2021-03-31T11:57:40.0315720-03:00;</History>
+    <History>True|2021-04-15T15:33:32.9502136Z;True|2021-03-31T12:06:02.7197577-03:00;True|2021-03-31T11:57:40.0315720-03:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="app.config">
-      <publishTime>03/05/2021 10:41:19</publishTime>
+      <publishTime>04/15/2021 11:28:08</publishTime>
     </File>
     <File Include="Areas/HelpPage/HelpPage.css">
       <publishTime>03/05/2021 10:00:19</publishTime>
@@ -81,10 +81,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/05/2021 10:00:26</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>03/31/2021 12:31:19</publishTime>
+      <publishTime>04/15/2021 11:33:18</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>03/31/2021 12:31:19</publishTime>
+      <publishTime>04/15/2021 11:33:18</publishTime>
     </File>
     <File Include="bin/BlowFish.dll">
       <publishTime>03/05/2021 10:00:17</publishTime>
@@ -237,19 +237,19 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/31/2021 11:57:16</publishTime>
     </File>
     <File Include="bin/SIA_MOVIL.dll">
-      <publishTime>03/31/2021 11:57:20</publishTime>
+      <publishTime>04/15/2021 11:33:04</publishTime>
     </File>
     <File Include="bin/SIA_MOVIL.pdb">
-      <publishTime>03/31/2021 11:57:20</publishTime>
+      <publishTime>04/15/2021 11:33:04</publishTime>
     </File>
     <File Include="bin/SIA_MOVIL_MODELO.dll">
-      <publishTime>03/31/2021 11:57:16</publishTime>
+      <publishTime>04/15/2021 11:32:59</publishTime>
     </File>
     <File Include="bin/SIA_MOVIL_MODELO.dll.config">
       <publishTime>03/05/2021 10:00:23</publishTime>
     </File>
     <File Include="bin/SIA_MOVIL_MODELO.pdb">
-      <publishTime>03/31/2021 11:57:16</publishTime>
+      <publishTime>04/15/2021 11:32:59</publishTime>
     </File>
     <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
       <publishTime>03/05/2021 10:00:29</publishTime>
@@ -495,7 +495,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/05/2021 10:00:20</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>03/31/2021 12:31:11</publishTime>
+      <publishTime>04/15/2021 11:33:07</publishTime>
     </File>
     <File Include="Scripts/97fa47432f.js">
       <publishTime>03/05/2021 10:00:19</publishTime>
@@ -590,6 +590,24 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="Scripts/jquery-3.5.1.slim.min.map">
       <publishTime>03/05/2021 10:00:19</publishTime>
     </File>
+    <File Include="Scripts/jquery-3.6.0.js">
+      <publishTime>04/05/2021 12:36:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.6.0.min.js">
+      <publishTime>04/05/2021 12:36:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.6.0.min.map">
+      <publishTime>04/05/2021 12:36:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.6.0.slim.js">
+      <publishTime>04/05/2021 12:36:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.6.0.slim.min.js">
+      <publishTime>04/05/2021 12:36:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.6.0.slim.min.map">
+      <publishTime>04/05/2021 12:36:04</publishTime>
+    </File>
     <File Include="Scripts/jquery-ui.js">
       <publishTime>03/05/2021 10:00:19</publishTime>
     </File>
@@ -597,7 +615,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>01/25/2021 16:33:41</publishTime>
     </File>
     <File Include="Scripts/moment.min.js">
-      <publishTime>03/05/2021 10:00:19</publishTime>
+      <publishTime>04/14/2021 17:54:11</publishTime>
     </File>
     <File Include="Scripts/popper-utils.js">
       <publishTime>03/05/2021 10:00:19</publishTime>
@@ -888,7 +906,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/05/2021 10:00:19</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/31/2021 12:31:10</publishTime>
+      <publishTime>04/15/2021 11:33:06</publishTime>
     </File>
   </ItemGroup>
 </Project>

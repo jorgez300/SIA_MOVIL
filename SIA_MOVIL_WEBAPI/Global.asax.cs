@@ -34,6 +34,13 @@ namespace SIA_MOVIL_WEBAPI
 
         }
 
+        protected void Application_PreSendRequestHeaders()
+        {
+            Response.Headers.Remove("Server");
+            Response.Headers.Remove("X-AspNet-Version");
+            Response.Headers.Remove("X-AspNetMvc-Version");
+        }
+
         protected void Application_BeginRequest(object sender, EventArgs e)
         {
             var app = sender as HttpApplication;

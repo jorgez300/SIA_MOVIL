@@ -36,7 +36,6 @@ namespace SIA_MOVIL
 
             bundles.Add(new StyleBundle("~/bundles/styles").Include(
                 "~/Content/bootstrap.min.css",
-                "~/Content/bootstrap.css",
                 "~/Content/toastr.css",
                 "~/Content/jquery-ui.css",
                 "~/Content/css/principal.css"));
@@ -50,7 +49,7 @@ namespace SIA_MOVIL
             #region "SCRIPTS"
 
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                    "~/Scripts/jquery-3.5.1.min.js",
+                    "~/Scripts/jquery-3.6.0.min.js",
                     "~/Scripts/bootstrap.bundle.min.js",
                     "~/Scripts/97fa47432f.js",
                     "~/Scripts/feather.min.js",
